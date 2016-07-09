@@ -1,0 +1,40 @@
+To perform a simple calculation
+
+Type the first number in the calculation.
+Click + to add, - to subtract, * to multiply, or / to divide. 
+Type the next number in the calculation. 
+Type any remaining operators and numbers.
+Click inverse to inverse the numbers. 
+Click =. 
+
+To perform unary calculations.
+
+Type the first number in the calculation.
+Click +, -, * or / and % to work out the percentage of that number.
+Click sqrt to work out the square root of that number.
+Click reciprocal to work out the reciprocal of that number.
+
+To work with numbers stored in memory
+
+To store the displayed number, click MS. 
+To recall a stored number, click MR. 
+To clear the memory, click MC. 
+To add the displayed number to the number already in memory, click M+. To see the new number, click MR. 
+Use Backspace to delete the last entered digit.
+Use CE to clear the current entry.
+Use C to clear every entry.
+
+To use digit grouping
+
+On the View menu, click Digit grouping.
+
+To use the clipboard
+
+Type the first number in the calculation.
+Press copy to copy the first number to the clipboard.
+Press paste to paste that number back to the calculation.
+
+Exception handling
+
+Square rooting a minus number will return 0.
+Dividing by 0 will return 0.
